@@ -11,7 +11,7 @@ img {
 
 body {
     background: linear-gradient(to bottom, rgb(5, 0, 73) 0%, rgb(1, 11, 146) 100%);
-    background-image: url('/COMP.5209-Assignment/media/background-image.webp');
+    background-image: url('/COMP.5209-Assignment/media/backgroundImage.webp');
     background-attachment:scroll;  /* Keeps the background fixed as the content grows */
     background-size: cover;
     background-repeat: repeat-y;
